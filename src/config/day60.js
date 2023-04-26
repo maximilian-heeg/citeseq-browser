@@ -1,7 +1,7 @@
 const url =
   process.env.NODE_ENV === "development"
     ? "http://localhost:8000/zarr/day60"
-    : "https://f004.backblazeb2.com/file/Merscope/day7";
+    : "https://f004.backblazeb2.com/file/citeseq/day60";
 
 export const day60Config = {
   version: "1.0.15",
